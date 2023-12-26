@@ -16,3 +16,7 @@
 # TRASH PAGE
 #### NOTES DELETED BY USER WILL APPEAR HERE.
 ![Edit](/images/trash.png)
+
+# DRAG DROP NOTES.
+#### USERS CAN ADJUST THEIR NOTES USING DRAG DROP FEATURE.
+![Edit](/images/dd.png)
